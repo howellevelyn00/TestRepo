@@ -1,1 +1,36 @@
+class aplacation
+{ 
+   static void Main (string[] args)
+   {
+      Customers customer1 = new Customers("Harry");
 
+
+
+   }
+   
+
+}
+class Customers
+{
+   string Name;
+
+   string Customrs(string name)
+   {
+      Name = name;
+   }
+
+
+}
+class Pruducts
+{
+
+}
+class ShopingCartItem
+{
+
+}
+class StoreItem
+{
+   string potatos;
+   string carrots;
+}
